@@ -1,5 +1,18 @@
 推荐！Sublime Text 最佳插件列表
  
+语言高亮提示 jade
+Tag = Html格式化
+文件夹查看
+MarkdownEditing
+
+设置同步
+
+http://www.jianshu.com/p/e506c76bdc3b
+
+CTags
+
+
+
 1.Package Control
 2.EditorConfig
 3.Emmet：html,css代码补全
